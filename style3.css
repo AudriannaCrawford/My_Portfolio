@@ -1,0 +1,21 @@
+aside.quote {
+    background-color: #f4f4f4;
+    border-left: 5px solid #0056b3;
+    padding: 20px;
+    margin: 20px 0;
+    font-style: italic;
+    color: #333;
+    border-radius: 8px;
+}
+
+aside.quote blockquote {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+aside.quote p {
+    margin-top: 10px;
+    text-align: right;
+    font-weight: bold;
+    color: #0056b3;
+}
